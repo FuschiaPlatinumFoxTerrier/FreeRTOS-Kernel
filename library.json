@@ -1,8 +1,0 @@
-{
-    "name":"FreeRTOS",
-    "version":"10.3.0",
-    "build":
-    {
-        "includeDir":"include"
-    }
-}
